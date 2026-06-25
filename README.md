@@ -4,7 +4,7 @@ This repository contains the project files, models, and documentation for a comp
 
 ## Project Overview
 The project focuses on system thinking and mathematical modeling to analyze complex, non-linear, and feedback-driven socio-economic or managerial challenges. 
-* **Supervisors:** Dr. Alinaghi Mashayekhi & Dr. Masoud Zahedi
+* **Supervisors:** Dr. Alinaghi Mashayekhi & Dr. Vahid Zahedi
 * **Focus Area:** [e.g., Human Capital Migration / Workforce Dynamics / Supply Chain Optimization]
 
 ## Key Methodologies & Skills Applied
