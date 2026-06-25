@@ -12,6 +12,4 @@ The project focuses on system thinking and mathematical modeling to analyze comp
 * **Mathematical Modeling:** Constructing Stock and Flow diagrams to simulate dynamic behaviors over time.
 * **Scenario Analysis & Policy Design:** Utilizing simulation tools (like Vensim/iThink) to evaluate different policy scenarios and design optimal, long-term managerial interventions.
 
-## Repository Structure
-* `/models`: Contains the source simulation files.
-* `/docs`: Contains the final project report or presentation (if applicable).
+.
